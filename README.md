@@ -114,7 +114,9 @@ Dans tous les cas, la page ayant obtenu le score PageRank le plus élevé est :
 | Config         | Temps      |
  
 | DF – 2 workers | 56 min 7 s |
+
 | DF – 4 workers | 3 h 36 min |
+
 | DF – 6 workers | 1 h 10 min |
 
 ### 5.2 RDD – Full dataset
@@ -122,7 +124,9 @@ Dans tous les cas, la page ayant obtenu le score PageRank le plus élevé est :
 | Config          | Temps       |
  
 | RDD – 2 workers | 1 h 29 min  |
+
 | RDD – 4 workers | 55 min 58 s |
+
 | RDD – 6 workers | 27 min 13 s |
 
 
