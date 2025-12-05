@@ -111,7 +111,7 @@ Dans tous les cas, la page ayant obtenu le score PageRank le plus élevé est :
 
 ### 5.1 DataFrame – Full dataset
 
-|     Config         |      Temps      |
+|     Configuration         |      Temps      |
  
 | DF – 2 workers | 56 min 7 s |
 
@@ -121,7 +121,7 @@ Dans tous les cas, la page ayant obtenu le score PageRank le plus élevé est :
 
 ### 5.2 RDD – Full dataset
 
-|      Config          |    Temps       |
+|      Configuration          |    Temps       |
  
 | RDD – 2 workers | 1 h 29 min  |
 
