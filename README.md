@@ -142,7 +142,7 @@ Causes possibles :
 * joins trop lourds et mal distribués
 * shuffle massif 
 
-➡️ Résultat : les RDD sont plus performants sur ce TP.
+Résultat : les RDD sont plus performants sur ce TP.
 
 
 ###  2. L'augmentation du nombre de workers ne garantit PAS une amélioration
